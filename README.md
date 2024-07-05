@@ -1,2 +1,2 @@
 # MarvelPedia
-website is live at: 
+website is live at: https://somya-pradhan.github.io/MarvelPedia/
