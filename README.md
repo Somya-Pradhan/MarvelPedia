@@ -30,3 +30,11 @@ The MarvelPedia is a solo project, a web-based application designed for Marvel e
 
   - Remove from List button: Removes the superhero from the favourite list.
   - Details button: Functions similarly to the home page, opening a detailed character page.
+
+# Technologies Used:
+
+- **Frontend:** `HTML, CSS, Bootstap & JavaScript  `
+- **API:** `Marvel API` for fetching character details.
+- **Icons:**  `FontAwesome` to bring a stylish and intuitive visual experience.
+
+# Project Gallery
