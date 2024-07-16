@@ -37,4 +37,38 @@ The MarvelPedia is a solo project, a web-based application designed for Marvel e
 - **API:** `Marvel API` for fetching character details.
 - **Icons:**  `FontAwesome` to bring a stylish and intuitive visual experience.
 
-# Project Gallery
+# Project Gallery:
+
+**01. Home Page Light Mode** ![](screenshots/1.png)
+
+**02. Home Page Dark Mode** ![](screenshots/2.png)
+
+**03. Home Page: search functionality displays a `No superhero found` message in light mode** ![](screenshots/3.png) 
+
+**04. Home Page: search functionality displays a `No superhero found` message in dark mode** ![](screenshots/4.png)
+ 
+**05. About Page Light Mode** ![](screenshots/5.png)
+
+**06. About Page Dark Mode** ![](screenshots/6.png)
+
+**07. Dropdown Menu Light Mode** ![](screenshots/7.png)
+
+**08. Dropdown Menu Dark Mode** ![](screenshots/8.png)
+
+**09. Superhero/Character Details Page** ![](screenshots/9.png)
+
+**10. Favourite Superhero Page: `When favourite superhero list is empty` in light mode** ![](screenshots/10.png)
+
+**11. Favourite Superhero Page: `When favourite superhero list is empty` in dark mode** ![](screenshots/11.png)
+
+**12. Favourite Superhero Page Light Mode** ![](screenshots/12.png)
+
+**13. Favourite Superhero Page Dark Mode** ![](screenshots/13.png)
+
+**14. Home Page: Attempting to add a superhero already in the favorites list triggers a popup alerting `Superhero is already added` in light mode** ![](screenshots/14.png)
+
+**15. Home Page: Attempting to add a superhero already in the favorites list triggers a popup alerting `Superhero is already added` in dark mode** ![](screenshots/15.png)
+
+**16. Contacts Page Light Mode** ![](screenshots/16.png)
+
+**17. Contacts Page Dark Mode** ![](screenshots/17.png)
