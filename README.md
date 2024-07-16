@@ -34,7 +34,7 @@ The MarvelPedia is a solo project, a web-based application designed for Marvel e
 
 # Technologies Used:
 
-- **Frontend:** `HTML, CSS, Bootstap & JavaScript  `
+- **Frontend:** `HTML, CSS, Bootstap & JavaScript`
 - **API:** `Marvel API` for fetching character details.
 - **Icons:**  `FontAwesome` to bring a stylish and intuitive visual experience.
 
