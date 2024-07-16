@@ -17,7 +17,8 @@ The MarvelPedia is a solo project, a web-based application designed for Marvel e
 - Showcase a wide list of superheroes with individual cards.
 - Each superhero card includes:
 
-  - Add to Favourite button: Adds the superhero to the user's favorite list.
+  - Add to Favourite button: Adds the superhero to the user's favourite list.
+  - While attempting to add a superhero/character already in the favourites list, it alerts the user with a popup message stating that the superhero/character is already added to their favourites.
   - Details button: Opens a new page with extensive details about the character.
 
 **4. Search Functionality:**
