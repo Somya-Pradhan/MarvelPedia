@@ -15,21 +15,21 @@ The MarvelPedia is a solo project, a web-based application designed for Marvel e
 - Fetch and display detailed information about Marvel characters using the Marvel API.
 - Display character profiles with images, background details, and more.
 - Showcase a wide list of superheroes with individual cards.
-- Each superhero card includes:
+- Each superhero/character card includes:
 
-  - Add to Favourite button: Adds the superhero to the user's favourite list.
+  - Add to Favourite button: Adds the superhero/character to the user's favourite list.
   - While attempting to add a superhero/character already in the favourites list, it alerts the user with a popup message stating that the superhero/character is already added to their favourites.
   - Details button: Opens a new page with extensive details about the character.
 
 **4. Search Functionality:**
-- A search bar enables users to find specific superheroes by typing their names.
-- If no superhero is found, a message "No superhero found" is displayed.
+- A search bar enables users to find specific superheroes/characters by typing their names.
+- If no superhero/character is found, a message "No superhero found" is displayed.
 
 **5. Favourite Superheros/Characters Page:**
-- Displays a list of superheroes added to the favourites.
-- Each favourite superhero card includes:
+- Displays a list of superheroes/character added to the favourites.
+- Each favourite superhero/character card includes:
 
-  - Remove from List button: Removes the superhero from the favourite list.
+  - Remove from List button: Removes the superhero/character from the favourite list.
   - Details button: Functions similarly to the home page, opening a detailed character page.
 
 # Technologies Used:
